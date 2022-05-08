@@ -1,0 +1,3 @@
+[submodule "themes/vex-hugo"]
+PATH = themes/vex-hugo
+url = https://github.com/Atlas075/password-generator.git
